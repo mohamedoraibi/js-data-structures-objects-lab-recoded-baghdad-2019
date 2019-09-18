@@ -7,9 +7,3 @@ function updateDriverWithKeyAndValue(driver, key, value){
 
 newObj;
 
-
- 
-newObj;
-
- 
-obj;
