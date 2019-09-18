@@ -4,3 +4,5 @@ const driver = { foo: "bar" };
 function updateDriverWithKeyAndValue(driver, key, value){
   const newObj = Object.assign({}, obj);
 }
+
+newObj;
