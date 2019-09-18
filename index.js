@@ -23,3 +23,8 @@ function deleteFromDriverByKey(driver, key, value){
     delete newObj['address'];
       return newObj;
 }
+
+
+destructivelyDeleteFromDriverByKey(driver, key, value){
+    return driver;
+}
