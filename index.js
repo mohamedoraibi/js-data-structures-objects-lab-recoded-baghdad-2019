@@ -6,3 +6,11 @@ function updateDriverWithKeyAndValue(driver, key, value){
 }
 
 newObj;
+
+delete newObj['foo'];
+// => true
+ 
+newObj;
+// => {}
+ 
+obj;
